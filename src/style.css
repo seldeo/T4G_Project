@@ -1,0 +1,54 @@
+
+
+
+.nav_div{
+background-image: url('../images/Atuabo\ Gas\ Processing\ Plant.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+flex-direction: column;
+height: 70vh;
+justify-content: space-between;
+align-items: center;
+
+}
+
+
+/* display:block;
+/* margin: 15px;
+padding: 50px; */
+/* border: 5px black ;
+word-spacing: 150px; */ */
+
+
+
+.nav_div logo{
+    padding: 10px;
+    justify-content: space-between;
+
+}
+
+.nav_links {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+    justify-content: end;
+}
+.nav_links a{
+    text-decoration: none;
+}
+
+button :hover{
+    background-color:aqua;
+}
+.Aboutus{
+    display: flex;
+    gap: 20px;
+    padding: 20px 0px 30px 0px;
+    background-color: rgb(194, 230, 200);
+}
+
+
